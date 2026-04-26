@@ -197,7 +197,7 @@ talent-scout-backend/
 
 Deployed on Railway. Push to `main` branch triggers automatic redeploy.
 
-**Live URL:** `https://web-production-c301c.up.railway.app`
+**Live URL:** `https://web-production-c301c.up.railway.app/docs`
 
 ---
 
